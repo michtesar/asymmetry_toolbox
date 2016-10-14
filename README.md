@@ -1,4 +1,4 @@
-## Frontal Alpha Asymmetry
+## Frontal Alpha Asymmetry Toolbox
 EEGLAB toolboox for computing frontal asymmetries with GUI
 
 [![DOI](https://zenodo.org/badge/64396201.svg)](https://zenodo.org/badge/latestdoi/64396201)
