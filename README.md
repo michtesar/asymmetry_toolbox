@@ -4,7 +4,7 @@ EEGLAB toolboox for computing frontal asymmetries with GUI
 Michael Tesar <michael.tesar@nudz.cz>
 2016 Ceske Budejovice
 
-More to read at my blog: [https://neurosciencemike.wordpress.com/2016/07/20/frontal-alpha-asymmetry-toolbox-for-eeglab/](https://neurosciencemike.wordpress.com/2016/07/20/frontal-alpha-asymmetry-toolbox-for-eeglab/)
+More to read at my blog: [https://neurosciencemike.wordpress.com/2016/07/20/frontal-alpha-asymmetry-toolbox-for-eeglab/](blog)
 
 https://www.youtube.com/embed/d6AwX5Jnsr0
 
