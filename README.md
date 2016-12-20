@@ -3,7 +3,7 @@ EEGLAB toolboox for computing frontal asymmetries with GUI
 
 [![DOI](https://zenodo.org/badge/64396201.svg)](https://zenodo.org/badge/latestdoi/64396201)
 
-<b>Michael Tesar<b><br>
+<b>Michael Tesar</b><br>
 National Institute of Mental Health in Prague <br>
 <michael.tesar@nudz.cz> <br>
 2016 Ceske Budejovice<br>
