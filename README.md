@@ -7,6 +7,8 @@ Michael Tesar<br>
 <michael.tesar@nudz.cz> <br>
 2016 Ceske Budejovice<br>
 
+Open-source software under GPL-2 licence.
+
 ## Sources from web
 More to read at my [blog](https://neurosciencemike.wordpress.com/2016/07/20/frontal-alpha-asymmetry-toolbox-for-eeglab/) or 
 [youtube](https://www.youtube.com/embed/d6AwX5Jnsr0)
