@@ -1,6 +1,8 @@
 ## Frontal Alpha Asymmetry Toolbox
 EEGLAB toolboox for computing frontal asymmetries with GUI
 
+This book/study is a result of the research funded by the project Nr. LO1611 with a financial support from the MEYS under the NPU I program.
+
 [![DOI](https://zenodo.org/badge/64396201.svg)](https://zenodo.org/badge/latestdoi/64396201)
 
 <b>Michael Tesar</b><br>
