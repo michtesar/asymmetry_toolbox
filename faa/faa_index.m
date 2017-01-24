@@ -3,6 +3,9 @@
 % Computes frontal alpha asymmetry from specified data - channels,
 % frequency and latency.
 %
+% This book/study is a result of the research funded by the project 
+% Nr. LO1611 with a financial support from the MEYS under the NPU I program.
+%
 % Michael Tesar <tesarm@jcu.cz>
 % Ceske Budejovice, 2016
 %
